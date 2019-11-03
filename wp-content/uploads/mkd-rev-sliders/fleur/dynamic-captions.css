@@ -1,0 +1,30 @@
+.tp-caption.Tile-Medium-Style, .Tile-Medium-Style {
+color:#ffffff;
+font-size:72px;
+line-height:82px;
+font-weight:200;
+font-style:normal;
+font-family:Source Sans Pro;
+text-decoration:none;
+background-color:transparent;
+border-color:transparent;
+border-style:none;
+border-width:0;
+border-radius:0 0 0 0;
+}
+
+.tp-caption.Subtitle-Style, .Subtitle-Style {
+color:#ffffff;
+font-size:20;
+line-height:36px;
+font-weight:400;
+font-style:normal;
+font-family:Source Sans Pro;
+text-decoration:none;
+background-color:transparent;
+border-color:transparent;
+border-style:none;
+border-width:0;
+border-radius:0 0 0 0;
+}
+
