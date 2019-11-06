@@ -1,0 +1,22 @@
+*.log
+wp-config.php
+
+# ignore everything in the "wp-content" directory, except:
+# mu-plugins, plugins, and themes directories
+wp-content/*
+!wp-content/mu-plugins/
+!wp-content/themes/
+wp-content/plugins
+/.htaccess
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
+
+docker-compose.yml
+
+!wp-content/themes/campusphilly
+
+wp-content/themes/fleur-child/node_modules
+wp-content/themes/fleur-child/dist/*
+node_modules
